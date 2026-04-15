@@ -78,7 +78,7 @@
 
 <br>
 
-### ⬡ Technical Arsenal
+### ⬡ Languages & Tools
 <p>
 <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
