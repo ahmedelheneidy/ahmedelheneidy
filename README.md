@@ -6,7 +6,7 @@
   
   <!-- Sleek Cyan Typing Animation -->
   <a href="https://sites.google.com/view/ahmedelheneidy/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=NEURAL_LINK+ESTABLISHED...;BIOMETRIC_SCAN+COMPLETE.;WELCOME,+ENGINEER+AHMED+SALAH.;SYSTEMS:+ONLINE." alt="HUD Boot" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=NEURAL_LINK+ESTABLISHED...;BIOMETRIC_SCAN+COMPLETE.;WELCOME,+COMMANDER+AHMED.;SYSTEMS:+ONLINE." alt="HUD Boot" />
   </a>
 </div>
 
@@ -19,15 +19,14 @@
     <!-- LEFT PANEL: SYSTEM DIRECTIVES (Bio) -->
     <td width="50%" valign="top" style="border: none;">
       <h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ CURRENT_PARAMETERS</h3>
-      <p><b>[■] DESIGNATION:</b> Mechatronics Engineer</p>
-      <p><b>[■] ACTIVE_PROTOCOL:</b> Integrating cutting-edge AI & Robotics (e.g. <i>BerryBot Greenhouse</i>).</p>
-      <p><b>[■] NEURAL_TRAINING:</b> Pushing the limits of tech for IoT, Smart Systems & Automation.</p>
-      <p><b>[■] COMM_CHANNEL:</b> <a href="mailto:ahmadelheneidy@gmail.com" style="color: #00F0FF;">Ping my mainframe</a>.</p>
+      <p><b>[■] ACTIVE_PROTOCOL:</b> Developing scalable applications & software.</p>
+      <p><b>[■] NEURAL_TRAINING:</b> Upgrading my technical stack and building projects.</p>
+      <p><b>[■] COMM_CHANNEL:</b> <a href="https://sites.google.com/view/ahmedelheneidy/" style="color: #00F0FF;">Access my portfolio mainframe</a>.</p>
       <br>
       <h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ CORE_PROCESSORS</h3>
-      <!-- Animated/Sleek Icons tailored for Mechatronics & AI -->
+      <!-- Animated/Sleek Icons. Change the names in the URL below to match your real skills! -->
       <p>
-        <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,arduino,raspberrypi,ros,tensorflow,opencv,docker&perline=5" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,aws,linux,git,cpp&perline=5" alt="Tech Stack" />
       </p>
     </td>
 
@@ -52,14 +51,22 @@
 <!-- BOTTOM PANEL: THE NERVOUS SYSTEM (Contribution Graph) -->
 <div align="center">
   <h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ NETWORK_ACTIVITY</h3>
-  <!-- Replace this with the actual generated snake animation link once you set it up -->
+  <!-- NOTE: This is a placeholder pulse image. To get the live snake, see instructions below! -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Network Activity Pulse" width="100%">
 </div>
 
 <hr style="border: 1px solid #00F0FF; opacity: 0.3;">
 
 <div align="center">
-  <a href="mailto:ahmadelheneidy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email"></a>
-  <a href="https://sites.google.com/view/ahmedelheneidy/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00F0FF" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/search/results/all/?keywords=Ahmed+Salah+Ahmed+Elheneidy"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"></a>
+  <a href="https://sites.google.com/view/ahmedelheneidy/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=planet&logoColor=00F0FF" alt="Portfolio">
+  </a>
+  <!-- Replace the hash below with your actual LinkedIn link if you have one -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn">
+  </a>
+  <!-- Replace the hash below with your actual email address -->
+  <a href="mailto:#">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00F0FF" alt="Email">
+  </a>
 </div>
