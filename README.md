@@ -1,38 +1,76 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="HUD Interface">
-<br>
-<a href="https://sites.google.com/view/ahmedelheneidy/">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=NEURAL_LINK+ESTABLISHED...;BIOMETRIC_SCAN+COMPLETE.;WELCOME,+COMMANDER+AHMED.;SYSTEMS:+ONLINE." alt="HUD Boot" />
-</a>
+<h1 style="border-bottom: none;">Ahmed Elheneidy</h1>
+<p><b>Systems Engineer • Robotics & IoT • AI & Computer Vision</b></p>
+<p>
+<a href="https://sites.google.com/view/ahmedelheneidy/projects">Portfolio</a> • 
+<a href="https://linkedin.com/in/ahmedelheneidy">LinkedIn</a> • 
+<a href="mailto:ahmadelheneidy@gmail.com">ahmadelheneidy@gmail.com</a>
+</p>
 </div>
 
 <br>
 
-<!-- REMOVED ALL INDENTATIONS SO GITHUB DOES NOT RENDER AS A CODE BLOCK -->
+> **Mission:** Integrating edge hardware, applied machine learning, and scalable software to design autonomous systems and intelligent industrial solutions.
+
+### ⬡ System Architecture & Integration Logic
+*A symbolic representation of my engineering approach.*
+
+```text
++-----------------------+        +-----------------------+        +-----------------------+
+|    EDGE & HARDWARE    |        |  DATA & INTELLIGENCE  |        |    APPLIED SYSTEMS    |
++-----------------------+        +-----------------------+        +-----------------------+
+|                       |        |                       |        |                       |
+| [ IoT Sensors ] ------|---1--->| [ Machine Learning ] -|---3--->| [ Software Arch. ]    |
+|                       |        |                       |        |                       |
+| [ Embedded Systems ] -|---2--->| [ Computer Vision ] --|---4--->| [ Auto. Robotics ]    |
++-----------------------+        +-----------------------+        +-----------------------+
+
+  [1] Telemetry Stream    [2] Sensor/Video Feed    [3] Predictive Analytics    [4] Spatial Inference & Actuation
+```
+
+<br>
+
+### ⬡ Engineering Portfolio
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 
 <td width="50%" valign="top" style="border: none;">
-<h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ CURRENT_PARAMETERS</h3>
-<p><b>[■] ACTIVE_PROTOCOL:</b> Developing scalable applications & software.</p>
-<p><b>[■] NEURAL_TRAINING:</b> Upgrading my technical stack and building projects.</p>
-<p><b>[■] COMM_CHANNEL:</b> <a href="https://sites.google.com/view/ahmedelheneidy/" style="color: #00F0FF;">Access my portfolio mainframe</a>.</p>
-<br>
-<h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ CORE_PROCESSORS</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,aws,linux,git,cpp&perline=5" alt="Tech Stack" />
-</p>
+<b>⚙️ Robotics & Automation</b>
+<ul>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/autonomous-uv-disinfection-robot">Autonomous UV Disinfection Robot</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/berrbot-greenhouse">BerrBot Greenhouse</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/automated-broiler-farming-system">Automated Broiler Farming</a></li>
+</ul>
 </td>
 
 <td width="50%" valign="top" style="border: none;">
-<h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ LIVE_TELEMETRY</h3>
-<a href="https://github.com/ahmedelheneidy">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedelheneidy&show_icons=true&bg_color=00000000&title_color=00F0FF&text_color=A1A1AA&icon_color=00F0FF&hide_border=true&include_all_commits=true" alt="Live Telemetry" />
-</a>
-<br><br>
-<a href="https://github.com/ahmedelheneidy">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelheneidy&layout=compact&bg_color=00000000&title_color=00F0FF&text_color=A1A1AA&hide_border=true" alt="Language Core" />
-</a>
+<b>📡 IoT & Embedded Systems</b>
+<ul>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/smart-hydroponic-farm">Smart Hydroponic Farm</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/iot-security-seal">IoT Security Seal</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/pothole-detection-system">Pothole Detection System</a></li>
+</ul>
+</td>
+
+</tr>
+<tr style="border: none;">
+
+<td width="50%" valign="top" style="border: none;">
+<b>🧠 AI & Computer Vision</b>
+<ul>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/ai-based-vein-detection-system">AI-Based Vein Detection</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/broken-ic-detection-system">Broken IC Detection</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/hair-scalp-disease-detection">Hair & Scalp Disease CV</a></li>
+</ul>
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+<b>💻 Software Architecture</b>
+<ul>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/dentistry-clinic-management-system">Dentistry Clinic Management</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/veterinary-clinic-system">Veterinary Clinic System</a></li>
+<li><a href="https://sites.google.com/view/ahmedelheneidy/projects/smart-fitness-coach">Smart Fitness Coach</a></li>
+</ul>
 </td>
 
 </tr>
@@ -40,21 +78,22 @@
 
 <br>
 
-<div align="center">
-<h3 style="color: #00F0FF; font-family: sans-serif;">&gt;_ NETWORK_ACTIVITY</h3>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Network Activity Pulse" width="100%">
-</div>
+### ⬡ Technical Arsenal
+<p>
+<img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/OpenCV-1e1e1e?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/TensorFlow-1e1e1e?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Arduino-1e1e1e?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-1e1e1e?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Node.js-1e1e1e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/React-1e1e1e?style=flat-square&logo=react&logoColor=white" alt="React" />
+</p>
 
-<hr style="border: 1px solid #00F0FF; opacity: 0.3;">
+<br>
 
+### ⬡ System Telemetry 
 <div align="center">
-<a href="https://sites.google.com/view/ahmedelheneidy/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=planet&logoColor=00F0FF" alt="Portfolio">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn">
-</a>
-<a href="mailto:#">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00F0FF" alt="Email">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedelheneidy&show_icons=true&theme=github_dark&hide_border=true&border_radius=0&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelheneidy&layout=compact&theme=github_dark&hide_border=true&border_radius=0&bg_color=0d1117" alt="Languages" width="48%" />
 </div>
